@@ -6,3 +6,10 @@ body{
 h3{color: green;}
 h3:hover {color:goldenrod;}
 
+.conjunto{ color : blue;
+}
+
+.diferent{
+    color: red;
+
+}
