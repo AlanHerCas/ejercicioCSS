@@ -5,6 +5,7 @@ body{
 
 h3{color: green;}
 h3:hover {color:goldenrod;}
+h3:active { color: aqua;}
 
 .conjunto{ color : blue;
 }
@@ -13,6 +14,9 @@ h3:hover {color:goldenrod;}
     color: red;
 
 }
+
+.row{
+    color:bisque;
 .letra-A-E{
     font-family: 'Arial', sans-serif;
     color: red;
