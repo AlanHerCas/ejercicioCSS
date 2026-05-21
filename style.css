@@ -27,3 +27,7 @@ img{
     width: 200px;
     height: 200px;
 }
+
+.letra-A-E:hover {
+    background-color: lightblue;
+}
